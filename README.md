@@ -1,0 +1,1 @@
+# check-the-no.-is-prime-or-not
